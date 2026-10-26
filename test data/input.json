@@ -8,15 +8,15 @@
         "Password": "`1234567890"
     },
     "Article": {
-        "Title": "Playwright Training one",
-        "Description": "This is my first article",
-        "Body": "This is the body of my first article",
+        "Title": "Curiosity, Quality & the Journey of Becoming Better",
+        "Description": "A personal perspective on continuous learning, software quality, technology, curiosity, collaboration, and finding the right balance between professional ambition and life’s adventures.",
+        "Body": "I’ve always believed that growth begins with curiosity.\n\nFor me, life is not just about reaching a destination. It’s about exploring possibilities, learning from experiences, asking better questions, and becoming a better version of myself with every step.",
         "Tags": "first,article"
     },
     "ArticleUpdate": {
-        "Title": "Playwright Training one updated",
-        "Description": "This is my first article updated",
-        "Body": "This is the body of my first article updated",
+        "Title": "Curiosity, Quality & the Journey of Becoming Better",
+        "Description": "A personal perspective on continuous learning, software quality, technology, curiosity, collaboration, and finding the right balance between professional ambition and life’s adventures.",
+        "Body": "Sharing knowledge, mentoring others, exchanging ideas, and interacting with curious minds remind me that learning works both ways.\n\nExperiences such as sharing industry knowledge with college students have reinforced my belief that even a small contribution can spark someone’s curiosity or confidence.\n\nI also believe that strong teams are built through trust, open communication, shared ownership, and the willingness to learn from mistakes.",
         "Tags": "first,article,updated"
     }
     

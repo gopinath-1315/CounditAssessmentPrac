@@ -1,6 +1,4 @@
 import{test as base} from "@playwright/test";
-
-
 import{LoginPage} from "../Pages/loginpage";
 import{ArticlePage} from "../Pages/articlepage";
 

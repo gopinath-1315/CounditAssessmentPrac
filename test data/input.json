@@ -1,0 +1,24 @@
+{
+  "ui": {
+    "baseUrl": "https://conduit.bondaracademy.com/"
+  },
+  
+    "Login": {
+        "Emailid": "test@gopi.com",
+        "Password": "`1234567890"
+    },
+    "Article": {
+        "Title": "Playwright Training one",
+        "Description": "This is my first article",
+        "Body": "This is the body of my first article",
+        "Tags": "first,article"
+    },
+    "ArticleUpdate": {
+        "Title": "Playwright Training one updated",
+        "Description": "This is my first article updated",
+        "Body": "This is the body of my first article updated",
+        "Tags": "first,article,updated"
+    }
+    
+
+}
